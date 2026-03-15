@@ -68,4 +68,4 @@ Regional and Customer Insights
 Sales Trends and Top Customers
 
 Screenshot:
-![Dashboard]()
+![Dashboard](https://github.com/Mysterious-Magici/-Bharat-Retail-360-Sales-Performance-Dashboard/blob/main/Dashboard%20part-3.png)
